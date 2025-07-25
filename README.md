@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Learner | 📍 India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gourav-56&label=Profile%20views&color=0e75b6&style=flat" alt="gourav-56" />
+  <img src="https://komarev.com/ghpvc/?username=gouravez&label=Profile%20views&color=0e75b6&style=flat" alt="gouravez" />
 </p>
 
 ---
@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourav-56&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10" height="160" />
-  <img src="https://streak-stats.demolab.com?user=gourav-56&theme=nightowl&hide_border=true&border_radius=10" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gouravez&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10" height="160" />
+  <img src="https://streak-stats.demolab.com?user=gouravez&theme=nightowl&hide_border=true&border_radius=10" height="160" />
 </div>
 
 ---
@@ -75,7 +75,7 @@
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gourav-56&theme=react-dark&area=true&hide_border=true&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouravez&theme=react-dark&area=true&hide_border=true&radius=12" />
 </div>
 
 ---
